@@ -287,7 +287,3 @@ This project demonstrates core robotics principles including sensor integration,
 **Status**: Fully Operational
 
 ---
-
-## License
-
-[Specify your project license here]
